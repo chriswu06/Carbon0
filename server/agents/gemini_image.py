@@ -105,7 +105,7 @@ Please be thorough and extract every piece of information you can see in these i
         # Generate content with Gemini
         print(f"  Sending {len(contents) - 1} images to Gemini for analysis...")
         response = client.models.generate_content(
-            model="gemini-2.0-flash-exp",
+            model="gemini-2.5-flash",
             contents=contents
         )
         
@@ -116,7 +116,7 @@ Please be thorough and extract every piece of information you can see in these i
             "success": True,
             "analysis": analysis_text,
             "images_analyzed": len(contents) - 1,
-            "model": "gemini-2.0-flash-exp"
+            "model": "gemini-2.5-flash"
         }
         
     except Exception as e:

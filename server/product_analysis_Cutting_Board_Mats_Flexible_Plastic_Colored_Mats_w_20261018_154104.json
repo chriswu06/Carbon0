@@ -1,0 +1,20 @@
+{
+  "product_name": "Cutting Board Mats Flexible Plastic Colored Mats with Food Icons, Fotouzy BPA-Free, Non-Porous, Anti-skid back and Dishwasher Safe, Set of 7 Rainbow - 7 Pieces",
+  "timestamp": "2026-10-18T15:41:04.356702",
+  "results": [
+    {
+      "search_result": {
+        "url": "https://www.amazon.com/Flexible-BPA-Free-Non-Porous-Anti-skid-Dishwasher/dp/B083TW37H9",
+        "title": "Cutting Board Mats Flexible Plastic Colored Mats with Food ...",
+        "snippet": "Flexible Plastic Colored Mats with Food Icons, Fotouzy BPA-Free, Non-Porous, Anti-skid back and Dishwasher Safe, Set of 7 Rainbow … made of BPA-free material.",
+        "screenshot_count": 5
+      },
+      "gemini_analysis": {
+        "success": false,
+        "error": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-2.0-flash-exp is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}"
+      },
+      "success": false
+    }
+  ],
+  "total_results": 1
+}
